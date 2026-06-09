@@ -1,0 +1,6 @@
+{
+  "name": "Vedik Enterprises",
+  "description": "A complete business management web app for Indian small business owners. Aapka Business, Aapka Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
